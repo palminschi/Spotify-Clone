@@ -3,7 +3,11 @@
     xmlns:tools="http://schemas.android.com/tools"
     package="dev.palminschi.music_player">
 
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE"/>
+
     <application
+        android:name=".MusicPlayerApplication"
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
         android:fullBackupContent="@xml/backup_rules"
