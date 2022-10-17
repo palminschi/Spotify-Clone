@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "211285946621",
+    "project_id": "spotify-clone-a6ba1",
+    "storage_bucket": "spotify-clone-a6ba1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211285946621:android:4b29656d6b5ba9b15c0e94",
+        "android_client_info": {
+          "package_name": "dev.palminschi.music_player"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "211285946621-tsruis6ve28jon1p6bjpaj6simlfkfj3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRgCM6EOZvuX5CZRcZwdrFb3vIP4efbAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "211285946621-tsruis6ve28jon1p6bjpaj6simlfkfj3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
